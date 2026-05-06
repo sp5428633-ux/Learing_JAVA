@@ -1,4 +1,4 @@
-interface  AccountOperation{
+                   interface  AccountOperation{
     void deposit(double amount);
 }
 
